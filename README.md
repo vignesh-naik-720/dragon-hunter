@@ -61,7 +61,7 @@ You must have the **LÖVE** engine installed on your system.
 
 ## 🎨 Asset Requirements
 The game logic automatically scales assets to fit the **64px** tile size. Ensure the following files are in your root directory:
-* `hungry-dino.png` (Player)
+* `sprite.png` (Player)
 * `dragon.png` (Target)
 * `grass.png`, `tree.png`, `rock.png` (Environment)
 
