@@ -66,4 +66,3 @@ The game logic automatically scales assets to fit the **64px** tile size. Ensure
 * `grass.png`, `tree.png`, `rock.png` (Environment)
 
 ---
-Developed as a final-year engineering project focused on game design and Lua-based state management.
