@@ -2,7 +2,7 @@
 
 **Dragon Hunter Extreme** is a fast-paced, top-down 2D arcade game built with the **LÖVE (Love2D)** framework and **Lua**. Navigate a beautiful, obstacle-filled terrain to hunt down a legendary dragon. Catch it quickly to maximize your score, but be careful—if you're too slow, the dragon flies away and your score takes a hit!
 
-
+**Download Link** : [https://720co.itch.io/dragon-hunter](https://720co.itch.io/dragon-hunter)
 
 ## 🎮 Gameplay Features
 
